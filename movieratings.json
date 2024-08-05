@@ -1,0 +1,124 @@
+{
+  "movies": [
+    {
+      "name": "The Shawshank Redemption",
+      "rating": "9.3"
+    },
+    {
+      "name": "The Godfather",
+      "rating": "9.2"
+    },
+    {
+      "name": "The Dark Knight",
+      "rating": "9.0"
+    },
+    {
+      "name": "Pulp Fiction",
+      "rating": "8.9"
+    },
+    {
+      "name": "The Lord of the Rings: The Return of the King",
+      "rating": "8.9"
+    },
+    {
+      "name": "Forrest Gump",
+      "rating": "8.8"
+    },
+    {
+      "name": "Inception",
+      "rating": "8.8"
+    },
+    {
+      "name": "Fight Club",
+      "rating": "8.8"
+    },
+    {
+      "name": "The Matrix",
+      "rating": "8.7"
+    },
+    {
+      "name": "Goodfellas",
+      "rating": "8.7"
+    },
+    {
+      "name": "The Silence of the Lambs",
+      "rating": "8.6"
+    },
+    {
+      "name": "Se7en",
+      "rating": "8.6"
+    },
+    {
+      "name": "Saving Private Ryan",
+      "rating": "8.6"
+    },
+    {
+      "name": "Interstellar",
+      "rating": "8.6"
+    },
+    {
+      "name": "Parasite",
+      "rating": "8.6"
+    },
+    {
+      "name": "The Green Mile",
+      "rating": "8.6"
+    },
+    {
+      "name": "Gladiator",
+      "rating": "8.5"
+    },
+    {
+      "name": "The Prestige",
+      "rating": "8.5"
+    },
+    {
+      "name": "The Departed",
+      "rating": "8.5"
+    },
+    {
+      "name": "The Lion King",
+      "rating": "8.5"
+    },
+    {
+      "name": "The Usual Suspects",
+      "rating": "8.5"
+    },
+    {
+      "name": "Back to the Future",
+      "rating": "8.5"
+    },
+    {
+      "name": "Schindler's List",
+      "rating": "8.9"
+    },
+    {
+      "name": "The Pianist",
+      "rating": "8.5"
+    },
+    {
+      "name": "Django Unchained",
+      "rating": "8.4"
+    },
+    {
+      "name": "Whiplash",
+      "rating": "8.5"
+    },
+    {
+      "name": "Braveheart",
+      "rating": "8.4"
+    },
+    {
+      "name": "The Shining",
+      "rating": "8.4"
+    },
+    {
+      "name": "Avengers: Endgame",
+      "rating": "8.4"
+    },
+    {
+      "name": "The Dark Knight Rises",
+      "rating": "8.4"
+    }
+  ]
+}
